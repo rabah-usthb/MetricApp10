@@ -69,9 +69,7 @@ There are three ways to run the program:
 
 <pre>
 Projects/
-├── MetricApp/    (source code)
-│
-├── Installer/    (installer files)
+├── src/    (source code)
 │
 ├── ReadMeAssets/ (README.md multi-media files) 
 │
