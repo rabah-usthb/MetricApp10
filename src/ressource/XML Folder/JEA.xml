@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Exceptions CompileTime="1" RunTime="0" total="1">
+    <DefaultExceptions total="1">
+        <RunTime/>
+        <CompileTime>
+            <Exception name="Exception"/>
+        </CompileTime>
+    </DefaultExceptions>
+    <NotDefaultExceptions total="0">
+        <RunTime/>
+        <CompileTime/>
+    </NotDefaultExceptions>
+</Exceptions>

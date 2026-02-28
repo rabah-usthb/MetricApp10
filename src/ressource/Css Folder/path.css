@@ -1,0 +1,16 @@
+.root {
+    -fx-background-color: white;
+}
+
+#DirectorySelectorButton,#binDirectorySelectorButton{
+	 -fx-background-color: white;
+	 -fx-border-color:gray;
+}
+
+#DirectorySelectorButton:hover,#binDirectorySelectorButton:hover{
+ -fx-cursor :hand;
+}
+
+#ErrorLabelPath,#binErrorLabelPath{
+	-fx-font-size:30px;
+}
